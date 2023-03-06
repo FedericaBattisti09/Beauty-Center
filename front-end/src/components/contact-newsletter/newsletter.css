@@ -1,0 +1,23 @@
+form {
+  margin: 5% 0;
+}
+
+.text-newsletter {
+  font-family: "Betty-Regular";
+  font-weight: bold;
+  font-size: 2em;
+  margin: 2% 0;
+}
+
+input[type="email"] {
+  padding: 8px;
+  border-radius: 10px;
+  border: 3px solid rgb(88, 63, 98);
+}
+
+.submit {
+  font-family: "Betty-Regular";
+  background-color: rgb(88, 63, 98);
+  font-size: 1.3em;
+  border-radius: 10%;
+}

@@ -1,0 +1,9 @@
+.card-promo {
+  width: 23rem;
+}
+
+.card h3,h4 {
+  font-family: "Betty-Regular";
+  font-weight: bold;
+  font-size: 2.1em;
+}

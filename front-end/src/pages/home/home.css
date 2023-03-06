@@ -1,0 +1,15 @@
+.title {
+  font-family: "Betty-Regular";
+  margin: 5% 0;
+}
+
+.title-perla {
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.phrase h2 {
+  font-family: "Betty-Regular";
+  font-weight: bold;
+  font-style: italic;
+}

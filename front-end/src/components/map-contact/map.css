@@ -1,0 +1,23 @@
+.title-map h2 {
+  font-family: "Betty-Regular";
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.mapouter {
+  position: relative;
+  text-align: center;
+  height: 45vh;
+  width: 55vh;
+}
+.gmap_canvas {
+  overflow: hidden;
+  background: none;
+  height: 100%;
+  width: 100%;
+}
+
+#gmap_canvas {
+  height: 100%;
+  width: 100%;
+}

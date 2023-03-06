@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Betty-Regular";
+    src: url("/src/assets/font/Betty\ Regular.ttf");
+}
+
+.pageContainer{
+    min-height: 100vh;
+}

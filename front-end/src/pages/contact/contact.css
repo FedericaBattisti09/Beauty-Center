@@ -1,0 +1,16 @@
+.contactTitle {
+  font-family: "Betty-Regular";
+  margin: 5% 0;
+}
+.contactTitle h2 {
+  font-size: 3em;
+  font-weight: bold;
+}
+.contactTitle h3 {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.containerContact h2 {
+  font-weight: bold;
+  font-family: "Betty-Regular";
+}

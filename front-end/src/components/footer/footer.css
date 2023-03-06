@@ -1,0 +1,14 @@
+footer {
+  background-color: #ffdffc;
+}
+
+.footer-content {
+  width: 17%;
+  text-align: justify;
+}
+
+.footerDescription {
+  font-family: "Betty-Regular";
+  font-weight: bold;
+  font-size: 1.5em;
+}
